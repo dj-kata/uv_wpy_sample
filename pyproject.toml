@@ -1,0 +1,9 @@
+[project]
+name = "uv-wpy-sample"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "nuitka>=2.7.12",
+]
